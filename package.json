@@ -1,0 +1,23 @@
+{
+  "name": "TwoelementsadduptoK",
+  "version": "1.0.0",
+  "description": "Problem Two elements add up to K",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilsonneto-dev/HackerRank2_TwoElementsAddUpToK.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilsonneto-dev/HackerRank2_TwoElementsAddUpToK/issues"
+  },
+  "homepage": "https://github.com/wilsonneto-dev/HackerRank2_TwoElementsAddUpToK#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
